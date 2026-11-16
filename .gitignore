@@ -1,0 +1,4 @@
+bin/
+*.pgn
+logs/
+.DS_Store
